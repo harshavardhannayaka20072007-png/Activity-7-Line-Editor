@@ -2,6 +2,12 @@
 ````markdown
 # Activity 7 — Simple Line Editor in C
 
+## Team Members
+
+- T S HARSHAVARDHAN NAYAKA
+- VIGHNESH P KANHIRAKANDI
+- TERRANCE PAUL S
+
 ## Overview
 
 This project implements a simple command-line Line Editor in C.
